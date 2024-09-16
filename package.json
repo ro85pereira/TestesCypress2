@@ -1,0 +1,21 @@
+{
+  "name": "cypress2",
+  "version": "1.0.0",
+  "description": "Testes refinados com cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ro85pereira?tab=repositories"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "ro85pereira",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.14.2"
+  }
+}
